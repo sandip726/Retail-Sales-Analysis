@@ -2,9 +2,9 @@
 This project conducts a comprehensive Exploratory Data Analysis (EDA) on four years of retail sales data (2015-2018) from a superstore. The primary objective is to uncover key sales performance metrics, identify high-value customer segments, determine top-selling product categories, and analyze seasonal trends to provide actionable business recommendations.
 
 ## Key Tools Used:
-Python
-Pandas: Data loading, cleaning, aggregation, and time-series analysis (resample).
-Matplotlib: Data visualization (Line Plots and Bar Charts).
+1.Python
+2.Pandas: Data loading, cleaning, aggregation, and time-series analysis (resample).
+3.Matplotlib: Data visualization (Line Plots and Bar Charts).
 
 ## 1. Data Cleaning & Preparation
 
@@ -19,9 +19,9 @@ Metric
 Value
 Total Cleaned Records = 9,789
 
-# Average Sales = $230.12
-# Highest Single Sale = $22,638.48
-# Lowest Single Sale = $0.44
+Average Sales = $230.12
+Highest Single Sale = $22,638.48
+Lowest Single Sale = $0.44
 
 Insight: The large difference between the average sale and the highest sale suggests that a few highly valuable transactions (likely high-end technology or furniture) significantly influence overall revenue metrics.
 
