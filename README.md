@@ -15,13 +15,13 @@ Type Conversion: 'Postal Code' was converted from float to the correct int type.
 
 ## 2. Descriptive Statistics
 Initial analysis of the 'Sales' column revealed a highly skewed distribution:
-Metric
-Value
-Total Cleaned Records = 9,789
+-Metric
+-Value
+-Total Cleaned Records = 9,789
 
-Average Sales = $230.12
-Highest Single Sale = $22,638.48
-Lowest Single Sale = $0.44
+-Average Sales = $230.12
+-Highest Single Sale = $22,638.48
+-Lowest Single Sale = $0.44
 
 Insight: The large difference between the average sale and the highest sale suggests that a few highly valuable transactions (likely high-end technology or furniture) significantly influence overall revenue metrics.
 
@@ -54,7 +54,9 @@ Conclusion: The business exhibits strong end-of-year seasonality, suggesting res
 
 Based on the analysis, the following recommendations are suggested:
 -Focus on Q4 Preparedness: Ensure inventory levels for high-value Technology and Furniture items are maximized ahead of the Q4 peak (starting October) to prevent stockouts during the crucial holiday season.
+
 -Targeted Consumer Campaigns: Since the Consumer segment drives the most revenue, develop targeted loyalty programs or subscription services to increase lifetime value within this key segment.
+
 -Profitability Deep Dive: The next analytical step should be to include the 'Profit' column to determine if high-revenue categories (Technology) are also the most profitable, or if high costs/discounts are eroding margins.
 
 
